@@ -4,4 +4,4 @@ First practice in EDA with police data. In this notebook i:
 • detected outliers, missing values, and anomalies,  
 • analyzed distributions and relationships between variables,  
 • created various plots, charts, and correlation matrices to visualize the data,  
-• came up with hypotheses and confirmed/disproved them.
+•  formulated hypotheses and validated or rejected them based on the data.
