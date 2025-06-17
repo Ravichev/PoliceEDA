@@ -1,4 +1,4 @@
-# PoliceEDA
+# Police stops EDA
 First practice in EDA with police data. In this notebook i:  
 • examined the structure and characteristics of the dataset,  
 • detected outliers, missing values, and anomalies,  
