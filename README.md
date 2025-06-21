@@ -1,4 +1,10 @@
-# Police stops EDA
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/tj3ltZKxO94AAAAC/cops-police.gif" alt="Description" width="600" />
+</p>  
+
+# Police stops EDA  
+
 First practice in EDA with police data. In this notebook i:  
 • examined the structure and characteristics of the dataset,  
 • detected outliers, missing values, and anomalies,  
